@@ -9,15 +9,12 @@
 
 * Clone this repository, from your local machine:
   ```
-  git clone https://github.com/adaltas/ece-webtech-2021-fall.git webtech
-  cd webtech/courses/webtech/project
+  git clone https://github.com/Jess2000/Devops_project.git
   ```
 * Install [Go](https://golang.org/) and [Dex](https://dexidp.io/docs/getting-started/). For example, on Ubuntu, from your project root directory:   
   ```
   # Install Go
   apt install golang-go
-  # Download Dex
-  git clone https://github.com/dexidp/dex.git
   # Build Dex
   cd dex
   make
@@ -61,47 +58,3 @@
 ## Author
 
 *name, email, ...*
-
-## Tasks
-
-Project management
-
-* Naming convention   
-  *place your graduation and comments*
-* Project structure   
-  *place your graduation and comments*
-* Code quality   
-  *place your graduation and comments*
-* Design, UX   
-  *place your graduation and comments*
-* Git and DevOps   
-  *place your graduation and comments*
-
-Application development
-
-* Welcome screens   
-  *place your graduation and comments*
-* New channel creation   
-  *place your graduation and comments*
-* Channel membership and access   
-  *place your graduation and comments*
-* Ressource access control   
-  *place your graduation and comments*
-* Invite users to channels   
-  *place your graduation and comments*
-* Message modification   
-  *place your graduation and comments*
-* Message removal   
-  *place your graduation and comments*
-* Account settings   
-  *place your graduation and comments*
-* Gravatar integration   
-  *place your graduation and comments*
-* Avatar selection   
-  *place your graduation and comments*
-* Personal custom avatar   
-  *place your graduation and comments*
-
-## Bonus
-
-*place your graduation and comments*
