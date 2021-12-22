@@ -3,6 +3,49 @@
 
 This is our devops final project.
 
+## Opportunities
+
+1. The DevOps project is based on all of the labs passed during the course, it is allowed to use them.
+
+2. Work on the project can be carried out only by a group of 2 students or 1.
+
+## Work performed
+
+1. Create a web application
+
+We take the webtech application project and we add some tests.
+We use the draft application located in courses/devops/modules/04.continuous-testing/assets/userapi
+
+2. Apply CI/CD pipeline
+
+We chose to use Heroku for configure and apply CI/CD (including deployment).
+
+3. Configure and provision a virtual environment and run your application using the IaC approach
+
+We configure Vagrant and we we use Ansible.
+
+4. Build Docker image of your application
+
+We build our docker image of our application and we push it to Docker Hub.
+
+5. Make container orchestration using Docker Compose
+
+We create a docker-compose.yml file.
+
+6. Make docker orchestration using Kubernetes
+
+We create the 4 Kubernetes Manifest YAML files (deployment.yaml, persistentVolume.yaml, persistentVolumeClaim.yaml, service.yaml).
+
+7. Make a service mesh using Istio
+
+We deploy our application using Istio and we create virtualService.yaml.
+
+8. Implement Monitoring to your containerized application
+
+We started but not finished.
+
+9. Document your project
+
 ## Usage
 
 *how to start and use the application, run the tests, ...*
@@ -54,6 +97,22 @@ This is our devops final project.
   # Start the front-end
   yarn start
   ```
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+[Gitlab on CentOS](https://about.gitlab.com/install/#centos-7)
+
+[Vagrant documentation](https://www.vagrantup.com/docs)
+
+[Heroku Deploy documentation](https://github.com/marketplace/actions/deploy-to-heroku#getting-started)
+
+[Docker documentation](https://docs.docker.com/develop/)
+
+[Docker Hub](https://hub.docker.com/)
 
 ## Author
 
