@@ -1,7 +1,7 @@
 
-# Chat application - final project
+# Devops final project
 
-*presentation, introduction, ...*
+This is our devops final project.
 
 ## Usage
 
@@ -57,4 +57,6 @@
 
 ## Author
 
-*name, email, ...*
+AUVE Jessica [jessica.auve@edu.ece.fr](mailto:jessica.auve@edu.ece.fr)
+
+BENZEKRI Aicha [aicha.benzekri@edu.ece.fr](mailto:aicha.benzekri@edu.ece.fr)
