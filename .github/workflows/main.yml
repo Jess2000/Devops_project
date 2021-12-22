@@ -49,7 +49,7 @@ jobs:
       # Read instructions how to configure this action: https://github.com/marketplace/actions/deploy-to-heroku#getting-started
       - uses: akhileshns/heroku-deploy@v3.12.12 # This is the action
         with:
-          heroku_api_key: ${{DpLs8qjqPRMyY4&}}
+          heroku_api_key: ${{6f231a84-163a-46c6-9819-8453794b13be}}
           heroku_app_name: "Devops_project" # Must be unique in Heroku
           heroku_email: jessica.auve@edu.ece.fr # Heroku account email
           appdir: userapi # Define appdir if you application is in a subfolder
